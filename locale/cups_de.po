@@ -2859,13 +2859,13 @@ msgid "A0"
 msgstr "DIN A0"
 
 msgid "A0 Long Edge"
-msgstr "A0 lange Kante"
+msgstr "A0 lange Seite"
 
 msgid "A1"
 msgstr "DIN A1"
 
 msgid "A1 Long Edge"
-msgstr "A1 lange Kante"
+msgstr "A1 lange Seite"
 
 msgid "A10"
 msgstr "DIN A10"
@@ -2874,25 +2874,25 @@ msgid "A2"
 msgstr "DIN A2"
 
 msgid "A2 Long Edge"
-msgstr "A2 lange Kante"
+msgstr "A2 lange Seite"
 
 msgid "A3"
 msgstr "DIN A3"
 
 msgid "A3 Long Edge"
-msgstr "A3 lange Kante"
+msgstr "A3 lange Seite"
 
 msgid "A3 Oversize"
 msgstr "A3 Übergröße"
 
 msgid "A3 Oversize Long Edge"
-msgstr "A3 Übergröße lange Kante"
+msgstr "A3 Übergröße lange Seite"
 
 msgid "A4"
 msgstr "DIN A4"
 
 msgid "A4 Long Edge"
-msgstr "A4 lange Kante"
+msgstr "A4 lange Seite"
 
 msgid "A4 Oversize"
 msgstr "A4 Übergröße"
@@ -2904,7 +2904,7 @@ msgid "A5"
 msgstr "DIN A5"
 
 msgid "A5 Long Edge"
-msgstr "A5 lange Kante"
+msgstr "A5 lange Seite"
 
 msgid "A5 Oversize"
 msgstr "A5 Übergröße"
@@ -2913,7 +2913,7 @@ msgid "A6"
 msgstr "DIN A6"
 
 msgid "A6 Long Edge"
-msgstr "A6 lange Kante"
+msgstr "A6 lange Seite"
 
 msgid "A7"
 msgstr "DIN A7"
@@ -2943,19 +2943,19 @@ msgid "ARCH C"
 msgstr "ARCH C"
 
 msgid "ARCH C Long Edge"
-msgstr "ARCH C lange Kante"
+msgstr "ARCH C lange Seite"
 
 msgid "ARCH D"
 msgstr "ARCH D"
 
 msgid "ARCH D Long Edge"
-msgstr "ARCH D lange Kante"
+msgstr "ARCH D lange Seite"
 
 msgid "ARCH E"
 msgstr "ARCH E"
 
 msgid "ARCH E Long Edge"
-msgstr "ARCH E lange Kante"
+msgstr "ARCH E lange Seite"
 
 msgid "Accept Jobs"
 msgstr "Druckaufträge akzeptieren"
@@ -3782,7 +3782,7 @@ msgid "IPP memberName value is empty."
 msgstr "IPP-Mitgliedsnamenwert ist leer."
 
 msgid "IPP memberName with no attribute."
-msgstr "IPP-Mitgliedsname ohne Attribute."
+msgstr "IPP-Mitgliedsname ohne Attribut."
 
 msgid "IPP name larger than 32767 bytes."
 msgstr "IPP Name länger als 32767 Byte"
@@ -3922,19 +3922,19 @@ msgid "JIS B4"
 msgstr "JIS B4"
 
 msgid "JIS B4 Long Edge"
-msgstr "JIS B4 lange Kante"
+msgstr "JIS B4 lange Seite"
 
 msgid "JIS B5"
 msgstr "JIS B5"
 
 msgid "JIS B5 Long Edge"
-msgstr "JIS B5 lange Kante"
+msgstr "JIS B5 lange Seite"
 
 msgid "JIS B6"
 msgstr "JIS B6"
 
 msgid "JIS B6 Long Edge"
-msgstr "JIS B6 lange Kante"
+msgstr "JIS B6 lange Seite"
 
 msgid "JIS B7"
 msgstr "JIS B7"
@@ -4036,7 +4036,7 @@ msgid "Letter Oversize"
 msgstr "Letter Übergröße"
 
 msgid "Letter Oversize Long Edge"
-msgstr "Letter Übergröße lange Kante"
+msgstr "Letter Übergröße lange Seite"
 
 msgid "Light"
 msgstr "Leicht"
@@ -4055,7 +4055,7 @@ msgid "Local printer created."
 msgstr "Lokaler Drucker erzeugt."
 
 msgid "Long-Edge (Portrait)"
-msgstr "Lange Kante (Hochformat)"
+msgstr "Lange Seite (Hochformat)"
 
 msgid "Looking for printer."
 msgstr "Suche nach Drucker."
